@@ -6,3 +6,5 @@ Main
 *.aux
 *.hi
 *.o
+
+/dist-newstyle
