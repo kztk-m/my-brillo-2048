@@ -1,0 +1,11 @@
+packages: 
+    .
+
+optimization: 2
+
+source-repository-package
+    type: git
+    location: https://github.com/kztk-m/freetype2
+    tag: f607a54f655232207d02c06539a00417de715270
+
+allow-newer: storable-offset:base
